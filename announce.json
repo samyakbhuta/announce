@@ -7,5 +7,8 @@
 	"webpresence": [
 		"github.com/samyakbhuta",
 		"twitter.com/samyak_bhuta"
-	]
+	],
+	"pics" : {
+		"avatar":"http://www.gravatar.com/avatar/cb83a6a1c9a2b929b4c14073778d904d.png"
+	}
 }
